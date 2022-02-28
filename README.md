@@ -1,6 +1,7 @@
 # Movie-Carousel
 <div align="center">
-  ![Screen_Recording_2022-02-27_at_10_44_42_PM_AdobeCreativeCloudExpress](https://user-images.githubusercontent.com/48486610/155922320-40291c04-722d-4841-b164-0e7aa5bd10a6.gif)
+  <img src="https://user-images.githubusercontent.com/48486610/155922320-40291c04-722d-4841-b164-0e7aa5bd10a6.gif"/>
+  
   <p>Carousel made using HTML, CSS, JavaScript, JSON</p>
 </div>
 
